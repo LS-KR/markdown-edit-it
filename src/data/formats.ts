@@ -27,18 +27,18 @@ export default [
     name: 'Quote',
     icon: 'flowbite:quote-outline',
     style: '> ',
-    double: false
+    double: false,
   },
   {
     name: 'List',
     icon: 'famicons:list-outline',
     style: '- ',
-    double: false
+    double: false,
   },
   {
     name: 'Code',
     icon: 'ph:code',
     style: '`',
-    double: true
-  }
+    double: true,
+  },
 ]

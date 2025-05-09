@@ -1,7 +1,10 @@
 @import 'fonts.scss';
 
 :root {
-  --font-family-base: 'Chinese Quotes', 'Halant', 'Inter var', 'Inter', 'LXGW WenKai', BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Helvetica, Arial, 'Noto Sans', sans-serif, -apple-system, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  --font-family-base:
+    'Chinese Quotes', 'Halant', 'Inter var', 'Inter', 'LXGW WenKai', BlinkMacSystemFont, 'Segoe UI',
+    Roboto, 'Helvetica Neue', Helvetica, Arial, 'Noto Sans', sans-serif, -apple-system,
+    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
   --font-family-mono: 'Maple Mono', 'JetBrains Mono', 'Consolas', monospace;
 
   --color-background: #eff1f5;
